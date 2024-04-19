@@ -1,0 +1,16 @@
+.employee {
+    border: 1px solid #333;
+    background-color: gray;
+    padding: 10px;
+    margin-left: 12.5%;
+    width: 300px;
+    float: left;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
